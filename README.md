@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AllenZCJ-bit
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on artificial genaral intelligence
+
 - 📫 How to reach me ,contact ZCJ136578646@outlook.com
 
 <!---
